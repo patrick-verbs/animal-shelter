@@ -1,6 +1,8 @@
 # Animal Shelter Sample Project
-##### By Patrick Lee, Thomas Russel, and Giancarlo Vigneri.
-##### From _Learn How to Program_'s [Practice: Cascading] exercise.
+##### By Patrick Lee, Thomas Russell, and Giancarlo Vigneri.
+##### From _Learn How to Program_'s [Practice: Cascading](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-cascading) exercise.
+
+## See it GitHub Pages: https://patrick-verbs.github.io/animal-shelter/
 
 ## Image Attributions
 ### Baby Tiger

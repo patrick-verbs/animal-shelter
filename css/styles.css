@@ -1,6 +1,14 @@
-.left {
+body {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: serif;
+}
+
+div.left {
   float: left;
-  width: 200px;
+  width: 400px;
   border: 2px solid rgb(0, 109, 128)0, 95, 70);
   padding: 10px;
   background-color: orange;
@@ -8,6 +16,29 @@
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
+}
+
+div.profile {
+  float: top;
+  margin: auto;
+  width: 50%;
+  min-width: 400px;
+  padding: 10px;
+}
+
+div.animal-type {
+  width: 100%;
+}
+
+p.animal-type {
+  font-family: sans-serif;
+  width: 100%;
+  font-size: 36px;
+  font-weight: 640;
+}
+
+img.profile-pic {
+  width: 100%;
 }
 
 li {
@@ -19,21 +50,11 @@ li .animal-name {
   font-size: 30px;
 }
 
-h2.animal-type {
-  width: 100%;
-  font-family: sans-serif;
-}
-
 #Toni {
   color: orange;
   font-size: 54px;
+  font-family: serif;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
 
-div.profile {
-  float: left;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
