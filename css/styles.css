@@ -10,7 +10,29 @@
   box-sizing: border-box;
 }
 
-.profile {
+li {
+  color: black;
+}
+
+li .animal-name {
+  font-style: bold;
+  font-size: 30px;
+}
+
+h2.animal-type {
+  width: 100%;
+  font-family: sans-serif;
+}
+
+#Toni {
+  color: orange;
+  font-size: 54px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+div.profile {
+  float: left;
   margin: auto;
   width: 50%;
   padding: 10px;
