@@ -1,0 +1,11 @@
+.left {
+  float: left;
+  width: 200px;
+  border: 2px solid rgb(0, 109, 128)0, 95, 70);
+  padding: 10px;
+  background-color: orange;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
